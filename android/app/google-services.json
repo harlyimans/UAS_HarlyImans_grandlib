@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917482978563",
+    "project_id": "grand-library-30cbd",
+    "storage_bucket": "grand-library-30cbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917482978563:android:7b5a882c1cb0a4da2fbd36",
+        "android_client_info": {
+          "package_name": "com.example.grand_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB976RfJSec7rEIhOT_OFpBMzMJqNJ--Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
