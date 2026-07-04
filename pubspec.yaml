@@ -31,14 +31,24 @@ dependencies:
   flutter:
     sdk: flutter
 
-    # Firebase Core - WAJIB ada
-  firebase_core: ^3.0.0
+  # Firebase
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  google_sign_in: ^6.2.1
 
-  # Firebase Authentication
-  firebase_auth: ^5.0.0
+  # HTTP Client
+  dio: ^5.7.0
 
-  # Untuk navigasi yang lebih baik (opsional)
-  go_router: ^14.0.0
+  # Local Storage (simpan token)
+  flutter_secure_storage: ^9.2.2
+
+  # Utilities
+  equatable: ^2.0.5 # Value equality untuk mode
+  email_validator: ^3.0.0 # Validasi format email
+  flutter_svg: ^2.0.10 # Google logo SVG
+
+  url_launcher: ^6.3.1
+  provider: ^6.1.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
